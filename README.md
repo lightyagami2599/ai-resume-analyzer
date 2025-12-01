@@ -1,6 +1,8 @@
 
-<img width="1906" height="1062" alt="image" src="https://github.com/user-attachments/assets/6363b903-096c-423a-a285-7ef9b0da51cb" />
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/524d1496-9c1e-4b69-9e78-d0795c09131d" />
+<!-- <img width="1906" height="1062" alt="image" src="https://github.com/user-attachments/assets/6363b903-096c-423a-a285-7ef9b0da51cb" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/524d1496-9c1e-4b69-9e78-d0795c09131d" /> -->
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2ecd3342-e44f-4b0b-8cd2-48620dd7aac6" />
+
   <h3 align="center">AI Resume Analyzer</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
