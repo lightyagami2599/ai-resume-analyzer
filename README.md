@@ -73,7 +73,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https:https://github.com/lightyagami2599/ai-resume-analyze
+git clone https://github.com/lightyagami2599/ai-resume-analyzer
+
 ```
 
 **Installation**
